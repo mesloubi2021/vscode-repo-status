@@ -42,7 +42,7 @@
 		"@types/vscode": "^1.25.0"
 	},
 	"dependencies": {
-		"axios": "^0.21.0"
+		"axios": "^1.7.2"
 	},
 	"extensionDependencies": [
 		"vscode.git"
